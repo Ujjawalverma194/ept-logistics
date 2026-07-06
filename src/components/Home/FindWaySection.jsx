@@ -7,7 +7,7 @@ import CraneIcon from "../../assets/journey/svgexport-7.svg";
 import WarehouseIcon from "../../assets/journey/svgexport-8.svg";
 import CargoPlane from "../../assets/journey/cargoplane.svg";
 import DownArrow from "../../assets/journey/svgexport-9.svg";
-import MobileRouteImage from "../../assets/journey/mobileviewprocesslineimage.svg";
+import MobileRouteImage from "../../assets/journey/mobileviewprocesslineImage.svg";
 import { TextWrap } from "lucide-react";
 
 const theme = {
